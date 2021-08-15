@@ -55,11 +55,11 @@ Remember to replace ` {release-tag}` with a release from the [Releases page](htt
 
 If you would rather use an older version of the framework, you should head over to [cdnjs](https://cdnjs.com/libraries/mini.css) for a list of releases and flavor files supplied with them.
 
-## Flavors & customizaton
+## Flavors & customization
 
 *Flavors* are one of the key features of **mini.css**, allowing you to customize your website's design and make your project stand out. We provide you with a few pre-defined [flavors](https://minicss.org/flavors#prebuilt-flavors) that might suit your needs and will help you figure out how to use the framework and create websites and apps with it.
 
-But you can easily build you own flavors by using our [flavor generator tool](https://minicss.org/flavors#build-your-own-flavor), which allows you to customize almost everything. Take your time and create the perfect flavo to suit your needs.
+But you can easily build your own flavors by using our [flavor generator tool](https://minicss.org/flavors#build-your-own-flavor), which allows you to customize almost everything. Take your time and create the perfect flavo to suit your needs.
 
 ---
 
